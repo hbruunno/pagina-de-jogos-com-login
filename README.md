@@ -1,2 +1,2 @@
-#login: admin #
-#senha: 123456 #
+*login: admin *
+* senha: 123456 *
